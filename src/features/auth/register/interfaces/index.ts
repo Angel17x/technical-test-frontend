@@ -1,0 +1,1 @@
+export type { IRegister } from './register.interface';
